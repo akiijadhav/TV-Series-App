@@ -1,1 +1,1 @@
-/ http://api.tvmaze.com/search/shows?q=${e.target.value}
+/ http://api.tvmaze.com/search/shows?q=:query
